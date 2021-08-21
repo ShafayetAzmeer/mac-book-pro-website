@@ -1,0 +1,29 @@
+h1{
+    font-size: 36pt;
+}
+
+h2{
+    font-size: 12pt;
+    font-weight: 700;
+    padding: 5pt;
+}
+
+h3{
+    font-size: 12pt;
+    font-weight: 500pt;
+}
+
+.btn-dark{
+    color: black;
+    background-color: white;
+}
+
+.before-total{
+    border : 1px solid black;
+}
+footer>h1{
+    font-size: 32pt;
+    font-weight: 500;
+    margin-top: 5pt;
+    margin-bottom: 10pt;
+}
